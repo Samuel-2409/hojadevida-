@@ -1,0 +1,23 @@
+body{background: -webkit-linear-gradient(90deg, #1b2c55,#3d85a9,#63cac8,#b8edff);background: linear-gradient(90deg, #1b2c55,#3d85a9,#63cac8,#b8edff);}
+
+
+    
+    header{background: -webkit-linear-gradient(90deg, #ffffff,#adecff);background: linear-gradient(90deg, #ffffff,#adecff);
+    height: 150px;
+    padding: 20px;
+    margin: 50px;
+    height: 50%;
+    border-radius: 20px;}
+    
+    
+    
+    main{ background: -webkit-linear-gradient(90deg, #ffffff,#adecff);background: linear-gradient(90deg, #ffffff,#adecff);
+    height: 250px; 
+    padding: 10px;
+    margin: 50px;
+    border-radius: 20px;}
+  
+    
+
+
+
